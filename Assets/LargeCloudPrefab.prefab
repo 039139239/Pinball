@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 585375081423766118}
   - component: {fileID: 2296341207579577222}
   - component: {fileID: 2296341207579577226}
+  - component: {fileID: -8117716314382639823}
   m_Layer: 0
   m_Name: LargeCloudPrefab
   m_TagString: LargeCloudTag
@@ -109,5 +110,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d8d4828d95549f347bec78879efe3ed9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &-8117716314382639823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1377916737052124083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 431a7bc6f9dbae046985505f8589fe92, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
